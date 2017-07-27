@@ -560,6 +560,9 @@ footer.second {
 
 /* General handheld devices & small browser windows */
 @media screen and (max-width: 1024px) {
+  #info{
+    font-size: 10%;
+  }
   form {
     margin: 0 auto;
     width: 260px;
