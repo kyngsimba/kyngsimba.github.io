@@ -561,7 +561,7 @@ footer.second {
 /* General handheld devices & small browser windows */
 @media screen and (max-width: 1024px) {
   #infofoot {
-    font-size: 60%;
+    font-size: 90%;
   }
   form {
     margin: 0 auto;
