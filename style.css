@@ -695,6 +695,7 @@ footer.second {
     font-size: 65%;
   }
   footer.second {
+    padding-top: 18px;
     font-size: 50%;
   }
   .button {
